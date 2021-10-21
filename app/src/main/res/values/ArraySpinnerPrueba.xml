@@ -2,9 +2,9 @@
 <resources>
 
     <string-array name="creditos">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
+        <item>Semestre 1</item>
+        <item>Semestre 2</item>
+        <item>Semestre 3</item>
     </string-array>
 
 </resources>

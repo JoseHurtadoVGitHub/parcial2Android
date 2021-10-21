@@ -69,7 +69,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="nombre"
+                    android:text="Nombre"
+                    android:layout_marginRight="10dp"
                     android:textColor="@android:color/black"
                     android:textSize="24dp" />
 
@@ -98,7 +99,8 @@
                     android:id="@+id/lblDescripcion"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="descripción"
+                    android:text="Descripción"
+                    android:layout_marginRight="20dp"
                     android:textColor="@android:color/black"
                     android:textSize="24dp" />
 
@@ -109,7 +111,7 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="start|top"
-                    android:hint="ingrese la descripcion"
+                    android:hint="Ingrese la descripcion"
                     android:inputType="textMultiLine|textNoSuggestions"
                     android:minHeight="48dp" />
 
